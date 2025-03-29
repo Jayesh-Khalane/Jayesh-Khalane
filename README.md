@@ -37,13 +37,6 @@
 
 ---
 
-## 🌟 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh-Khalane&theme=react-dark" />
-</p>
-
----
-
 ## 🤝 Connect with Me  
 
 <p align="center">
