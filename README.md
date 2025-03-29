@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Jayesh Khalane 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=550&lines=Embedded+Systems+%7C+AI+%7C+Robotics;FPGA+Enthusiast+%7C+Computer+Vision+%7C+IoT;Automation+%7C+Linux+%7C+Machine+Learning;Always+learning+new+things+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&height=40&lines=Embedded+Systems+%7C+AI+%7C+Robotics;FPGA+Enthusiast+%7C+Computer+Vision+%7C+IoT;Automation+%7C+Linux+%7C+Machine+Learning;Always+Learning+New+Things+🚀">
 </p>
 
 ---
@@ -25,11 +25,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-Khalane&show_icons=true&theme=radical&count_private=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-Khalane&show_icons=true&theme=radical&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
