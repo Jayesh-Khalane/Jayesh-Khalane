@@ -1,22 +1,53 @@
-# 👋 Hi, I'm Jayesh Khalane!
+<h1 align="center">🚀 Jayesh Khalane 🚀</h1>
 
-🔭 **Currently working on:** Robotics, Embedded Systems, and AI  
-🌱 **Learning:** FPGA Programming, ROS, and Advanced Computer Vision  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=550&lines=Embedded+Systems+%7C+AI+%7C+Robotics;FPGA+Enthusiast+%7C+Computer+Vision+%7C+IoT;Automation+%7C+Linux+%7C+Machine+Learning;Always+learning+new+things+%F0%9F%9A%80">
+</p>
+
+---
+
+## 🔥 About Me  
+🔹 Passionate about Robotics, Embedded Systems, and AI  
+🔹 Love working with Raspberry Pi, FPGA, and ROS  
+🔹 Exploring Machine Learning & Computer Vision  
+🔹 Building innovative solutions for automation  
+
+---
 
 ## 🚀 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)  
-![Verilog](https://img.shields.io/badge/-Verilog-000?style=for-the-badge)  
-![ROS](https://img.shields.io/badge/-ROS-000?style=for-the-badge&logo=ros)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,raspberrypi,linux,git,vscode,verilog,ros" />
+</p>
+
+---
 
 ## 📊 GitHub Stats  
-![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayesh-Khalane&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jayesh-Khalane&theme=tokyonight)  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-Khalane&show_icons=true&theme=radical&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=compact&theme=radical" />
+</p>
 
+---
+
+## 🌟 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh-Khalane&theme=react-dark" />
+</p>
+
+---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jayesh-khalane)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Jayesh-Khalane)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayesh-khalane">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Jayesh-Khalane">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github">
+  </a>
+</p>
