@@ -38,30 +38,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayesh-Khalane&theme=radical&margin-w=15&row=2&column=4">
-</p>
-
----
-
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh-Khalane&theme=github-dark" />
-</p>
-
----
-
-## 🌀 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Jayesh-Khalane/Jayesh-Khalane/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
