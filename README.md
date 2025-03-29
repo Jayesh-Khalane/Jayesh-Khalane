@@ -17,8 +17,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Jayesh-Khalane&theme=tokyonight)  
 
-## 📈 Contribution Graph  
-![Jayesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayesh-Khalane&theme=tokyo-night)
 
 ## 🎯 Projects & Contributions  
 - 🔹 **Raspberry Pi Cluster for Parallel Computing**  
