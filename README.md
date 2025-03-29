@@ -26,9 +26,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-Khalane&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=radical" width="48%"/>
 </p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=radical" width="48%"/>
 
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=compact&theme=radical" width="48%"/>
 </p>
