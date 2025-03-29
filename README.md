@@ -29,10 +29,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayesh-Khalane&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=tokyonight" width="48%"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=compact&theme=tokyonight" width="48%"/>
 </p>
