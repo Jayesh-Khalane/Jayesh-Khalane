@@ -2,15 +2,13 @@
 
 🔭 **Currently working on:** Robotics, Embedded Systems, and AI  
 🌱 **Learning:** FPGA Programming, ROS, and Advanced Computer Vision  
-💡 **Interests:** Raspberry Pi, Edge AI, and Hardware-Software Co-design  
-📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/jayesh-khalane) | [GitHub](https://github.com/Jayesh-Khalane)  
 
 ## 🚀 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)  
+![Verilog](https://img.shields.io/badge/-Verilog-000?style=for-the-badge)  
+![ROS](https://img.shields.io/badge/-ROS-000?style=for-the-badge&logo=ros)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=raspberrypi)  
 
 ## 📊 GitHub Stats  
 ![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayesh-Khalane&show_icons=true&theme=tokyonight)  
@@ -18,11 +16,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Jayesh-Khalane&theme=tokyonight)  
 
 
-## 🎯 Projects & Contributions  
-- 🔹 **Raspberry Pi Cluster for Parallel Computing**  
-- 🔹 **Personal Voice Assistant using Raspberry Pi & Python**  
-- 🔹 **ROS-based Robotics System for Autonomous Navigation**  
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-khalane)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayesh-Khalane)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jayesh-khalane)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Jayesh-Khalane)  
