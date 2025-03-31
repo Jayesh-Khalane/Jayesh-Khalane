@@ -35,12 +35,7 @@
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=radical" width="48%"/>
-</p>
-<p align="center">
-  <a href="https://github.com/Jayesh-Khalane/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=pie" alt="Top Languages"/>
-  </a>
-</p>
+
 
 
 ---
