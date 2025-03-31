@@ -37,7 +37,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh-Khalane&theme=radical" width="48%"/>
 </p>
 <p align="center">
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Khalane&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"/>
 </p>
 
 ---
